@@ -1,0 +1,6 @@
+@LubnaNedhalAbdAlRahimKanan_HostAddress = http://localhost:5112
+
+GET {{LubnaNedhalAbdAlRahimKanan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
